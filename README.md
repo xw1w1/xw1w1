@@ -1,16 +1,25 @@
 ## Hi there 👋
+###My name is Egor
 
-<!--
-**xw1w1/xw1w1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/turbotaliz)
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### info
+
+I am a Java/Kotlin developer, primarily engaged in the development of Minecraft plugins and various types of Discord bots.
+
+**What I'm up to?**
+
+- This year I would like to improve my skills in Kotlin.
+- In addition to OOP, I would like to start doing web development, at least a little bit.
+
+**What've I been up to this week?** 
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
