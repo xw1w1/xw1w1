@@ -1,11 +1,10 @@
 ## Hi there 👋
-###My name is Egor
+### My name is Egor 
+_also known as (xw1w1, xmonochrome, turbotaliz, ienji etc.)_
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/turbotaliz)
 
-&nbsp;
-
-### info
+### 'bout me
 
 I am a Java/Kotlin developer, primarily engaged in the development of Minecraft plugins and various types of Discord bots.
 
