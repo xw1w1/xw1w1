@@ -2,7 +2,7 @@
 ### My name is Egor 
 _also known as (xw1w1, xmonochrome, turbotaliz, ienji etc.)_
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/w3ykor)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/bezskitaiid)
 
 ### 'bout me
 
