@@ -6,7 +6,7 @@ _also known as (xw1w1, xmonochrome, turbotaliz, ienji etc.)_
 
 ### 'bout me
 
-I am a Java/Kotlin developer, primarily engaged in the development of Minecraft plugins and various types of Discord bots.
+lazy developer primarily engaged in the development of Minecraft plugins and various types of Discord bots.
 
 **What I'm up to?**
 
@@ -18,7 +18,11 @@ I am a Java/Kotlin developer, primarily engaged in the development of Minecraft 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+kge: Light sources (API)
+kge: Camera (API)
+kge: enchanced UI
+kge: snap-tp-edge (UI)
+kge: on-fly game scripts using kotlin
 ```
 
 <!--END_SECTION:waka-->
