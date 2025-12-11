@@ -10,17 +10,17 @@ lazy developer primarily engaged in the development of Minecraft plugins and var
 
 **What I'm up to?**
 
-- This year I would like to improve my skills in Kotlin.
-- In addition to OOP, I would like to start doing web development, at least a little bit.
+- Next year I would like to improve my skills in Kotlin.
 
 **What've I been up to this month?** 
 
 <!--START_SECTION:waka-->
 
 ```txt
-kge: Light sources (API)
+kge: UI font system (~50%)
 kge: enchanced UI (~50%)
 kge: on-fly game scripts using kotlin
+kge: project && scene api
 ```
 
 <!--END_SECTION:waka-->
