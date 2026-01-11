@@ -10,17 +10,15 @@ lazy developer primarily engaged in the development of Minecraft plugins and var
 
 **What I'm up to?**
 
-- Next year I would like to improve my skills in Kotlin.
+- This year I would like to improve my skills in Kotlin && C# C++.
 
-**What've I been up to this month?** 
+**What've I been up to this year?** 
 
 <!--START_SECTION:waka-->
 
 ```txt
-kge: UI font system (~50%)
-kge: enchanced UI (~50%)
-kge: on-fly game scripts using kotlin
-kge: project && scene api
+Kanvas: An editor for 3D scenes and simple games
+Diskord: A lightweight layer over JDA for easy creation and management of Discord bots.
 ```
 
 <!--END_SECTION:waka-->
