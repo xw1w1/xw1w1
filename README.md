@@ -8,15 +8,15 @@ _also known as (xw1w1, xmonochrome, turbotaliz, ienji etc.)_
 
 lazy developer primarily engaged in the development of Minecraft plugins and various types of Discord bots.
 
-**What I'm up to?**
+**What I'm up to this year?**
 
 - This year I would like to improve my skills in Kotlin && C# C++.
-
-**What've I been up to this year?** 
-
+ 
 <!--START_SECTION:waka-->
 
 ```txt
+Active projects: 
+
 Kanvas: An editor for 3D scenes and simple games
 Diskord: A lightweight layer over JDA for easy creation and management of Discord bots.
 ```
