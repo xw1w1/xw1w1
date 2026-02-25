@@ -17,8 +17,7 @@ lazy developer primarily engaged in the development of Minecraft plugins and var
 ```txt
 Active projects: 
 
-Kanvas: An editor for 3D scenes and simple games
-Diskord: A lightweight layer over JDA for easy creation and management of Discord bots.
+none :(
 ```
 
 <!--END_SECTION:waka-->
