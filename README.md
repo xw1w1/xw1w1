@@ -3,10 +3,11 @@
 _also known as (xw1w1, xmonochrome, turbotaliz, ienji etc.)_
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/bezskitaiid)
+[![Discord Badge](https://img.shields.io/badge/-Discord-99b3ff?style=flat-square&logo=Discord&logoColor=white)](https://t.me/bezskitaiid): `@turbotaliz`
 
 ### 'bout me
 
-lazy developer primarily engaged in the development of Minecraft plugins and various types of Discord bots.
+lazy developer
 
 **What I'm up to this year?**
 
