@@ -18,7 +18,7 @@ I'm a software developer from Russia, mostly focused on games development and mi
 - 📫 **Contact:** @turbotaliz (Discord)
 ---
 
-### 🛠️ Tech Stack & Tools
+### Languages, Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,haxe,haxeflixel,lua,clion,idea,visualstudio,vscode,git,unity,unreal,powershell,windows,cmake,discord,dotnet,github,gradle&perline=7" />
@@ -41,5 +41,5 @@ I'm a software developer from Russia, mostly focused on games development and mi
 
 ---
 
-### Contact With Me
+### Contacts
   Add me as a friend in Discord for any messages and questions: @turbotaliz
