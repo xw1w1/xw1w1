@@ -21,7 +21,7 @@ I'm a software developer from Russia, mostly focused on games development and mi
 ### Languages, Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,cs,haxe,haxeflixel,lua,clion,idea,github,cmake,visualstudio,vscode,git,github,unity,unreal,powershell,windows,discord,dotnet&perline=7" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,cs,haxe,haxeflixel,ts,clion,idea,github,cmake,visualstudio,vscode,git,github,unity,unreal,docker,windows,discord&perline=7" />
   </a>
 </p>
 
