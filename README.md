@@ -14,7 +14,7 @@
 I'm a software developer from Russia, mostly focused on games development and minecraft mods and plugins.
 
 - 🔭 **Currently working on:** Nemesis (don't ask me about it)
-- 💬 **Ask me about:** Kotlin, Java, C++, C#, Lua
+- 💬 **Ask me about:** Kotlin, Java, C++, C#, Minecraft
 - 📫 **Contact:** @turbotaliz (Discord)
 ---
 
