@@ -9,19 +9,18 @@
 ---
 
 ### About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=200&color=0E46A1&center=true&multiline=true&width=500&lines=if+buying+!%3D+owning+then+pirating+!%3D+stealing)](https://git.io/typing-svg)
 
-I'm a software developer from Russia, mostly focused on games development and minecraft mods and plugins.
+I'm a software developer from Russia, mostly focused on game development and minecraft mods/plugins.
 
-- 🔭 **Currently working on:** Nemesis (don't ask me about it)
-- 💬 **Ask me about:** Kotlin, Java, C++, C#, Minecraft
+- 🔭 **Currently working on:** Kanvas
+- 💬 **Ask me about:** Minecraft, CS2, Java, Kotlin, C#
 - 📫 **Contact:** @turbotaliz (Discord)
 ---
 
 ### Languages, Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,cs,haxe,haxeflixel,ts,clion,idea,github,cmake,visualstudio,vscode,git,github,unity,unreal,docker,windows,discord&perline=7" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,cs,haxe,haxeflixel,ts,clion,idea,github,cmake,visualstudio,vscode,git,unity,unreal,docker,windows,discord&perline=7" />
   </a>
 </p>
 
